@@ -1,6 +1,4 @@
 Hi there 👋 I'm Prakhar Agrawal!
-<img src="https://placehold.co/150x150/aabbcc/ffffff?text=Your+Photo" alt="Prakhar Agrawal" width="150" height="150" style="border-radius: 50%; float: right; margin-left: 20px;">
-
 About Me
 👨‍💻 Computer Science undergraduate passionate about solving real-world problems through scalable software systems and AI-powered solutions. Enthusiastic about distributed systems, automation, and building impactful technology.
 
