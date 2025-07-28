@@ -1,61 +1,63 @@
 Hi there 👋 I'm Prakhar Agrawal!
 <img src="https://placehold.co/150x150/aabbcc/ffffff?text=Your+Photo" alt="Prakhar Agrawal" width="150" height="150" style="border-radius: 50%; float: right; margin-left: 20px;">
 
-A passionate Computer Science undergraduate 🚀, I specialize in building scalable software systems and AI-powered solutions. My expertise lies in Python, machine learning, and web development, with a keen interest in distributed systems, automation, and creating impactful technology.
+About Me
+👨‍💻 Computer Science undergraduate passionate about solving real-world problems through scalable software systems and AI-powered solutions. Enthusiastic about distributed systems, automation, and building impactful technology.
 
-🛠️ My Core Technologies & Skills
-A snapshot of the tools and technologies I love working with:
+🔭 I’m currently developing AcadBoost, an AI-driven platform for student management and predictive insights.
 
-Languages & Databases:
+🌱 I’m continuously expanding my skills in full-stack development, advanced machine learning, and cloud-native solutions.
 
-Frameworks & Libraries:
+👯 I’m actively looking to collaborate on impactful open-source projects.
 
-Cloud & DevOps:
+💬 Ask me about Python, Machine Learning, Web Development, and Cybersecurity.
+
+🤝 I’m open to Software Engineering Intern opportunities, leveraging my experience in Python, ML, and web dev.
+
+📫 How to reach me: prakhar.244710@gmail.com
+
+⚡ Fun fact: I enjoy traveling 🗺️, photography 📸, and playing cricket 🏏 in my free time.
+
+💻 Languages and Tools
+Here are some of the technologies I'm proficient with:
+
+📈 My GitHub Statistics
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dcode3reaper%26show_icons%3Dtrue%26theme%3Ddark" alt="Prakhar Agrawal's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcode3reaper%26layout%3Dcompact%26theme%3Ddark" alt="Top Languages" />
+</p>
 
 🌟 Featured Projects
 Here are a few highlights of my work. Click to explore!
 
-⭐ AcadBoost
-AI-Driven Student Management: Automated student management platform with AI for predictive insights and personalized learning.
+AcadBoost: AI-Driven Student Management
 
-Secure & Scalable: Engineered secure multi-role access for 1000+ concurrent users with JWT and AES-256.
+Automated student management platform with AI for predictive insights and personalized learning. Engineered secure multi-role access for 1000+ concurrent users.
 
 Key Technologies: Flask, MySQL, MongoDB, Google Gemini AI, Python
 
-🛡️ CyberHawk: Cyber Incident Monitoring Tool
-Threat Intelligence: Developed a data scraping framework to collect and visualize cyber incident data from diverse sources.
+CyberHawk: Cyber Incident Monitoring Tool
+
+Developed a data scraping framework to collect and visualize cyber incident data from diverse sources, generating actionable threat intelligence.
 
 Key Technologies: Python, Selenium, Power BI, Machine Learning
 
-🌿 PlantHealth: AI-Powered Plant Disease Detection
-Real-time Diagnosis: AI-powered web app for plant disease detection using 20,000+ image dataset (90%+ accuracy).
+PlantHealth: AI-Powered Plant Disease Detection
 
-Agricultural Impact: Expected to reduce manual detection time by 70%.
+AI-powered web app for real-time plant disease detection using a 20,000+ image dataset (achieving 90%+ accuracy). Expected to reduce manual detection time by 70%.
 
 Key Technologies: Python, HTML, JavaScript, TensorFlow, OpenCV
 
-📸 PixInspect: Marketplace Image Validation
-🏆 Smart India Hackathon 2023 Winner: Developed a solution for ensuring product image authenticity in e-marketplaces.
+PixInspect: Marketplace Image Validation
+
+🏆 Smart India Hackathon 2023 Winner: Developed a solution for ensuring product image authenticity in e-marketplaces by extracting and comparing image information.
 
 Key Technologies: Python, HTML, JavaScript, Machine Learning
-
-💡 Currently Learning & Exploring
-Distributed Systems: Delving deeper into microservices architectures and resilient system design.
-
-Advanced Machine Learning: Focusing on natural language processing (NLP) and computer vision techniques.
-
-Cloud-Native Development: Expanding my expertise with serverless functions and container orchestration.
 
 🏅 Honors & Awards
 Smart India Hackathon (SIH) Winner 2023 - Government of India
 
 Smart India Hackathon (SIH) Finalist 2024 - Government of India
-
-📈 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=code3reaper&show_icons=true&theme=dark" alt="Prakhar Agrawal's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code3reaper&theme=dark" alt="Prakhar Agrawal's GitHub Streak" />
-</p>
 
 🤝 Let's Connect!
 I'm always open to discussing new opportunities, collaborations, or just connecting with fellow developers!
@@ -71,6 +73,3 @@ I'm always open to discussing new opportunities, collaborations, or just connect
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 </p>
-
-⚡ Fun Fact
-When I'm not diving deep into code, you can often find me traveling 🗺️, capturing moments through photography 📸, or enjoying a thrilling game of cricket 🏏!
