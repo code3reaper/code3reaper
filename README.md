@@ -1,73 +1,99 @@
-Hi there 👋 I'm Prakhar Agrawal!
-About Me
-👨‍💻 Computer Science undergraduate passionate about solving real-world problems through scalable software systems and AI-powered solutions. Enthusiastic about distributed systems, automation, and building impactful technology.
+<!-- README.md -->
 
-🔭 I’m currently developing AcadBoost, an AI-driven platform for student management and predictive insights.
+<h1 align="center">Hi there 👋, I'm Prakhar Agrawal</h1>
+<p align="center">🚀 Computer Science Undergrad | Python & ML Developer | Hackathon Winner | Cybersecurity Enthusiast</p>
 
-🌱 I’m continuously expanding my skills in full-stack development, advanced machine learning, and cloud-native solutions.
+---
 
-👯 I’m actively looking to collaborate on impactful open-source projects.
+### 👨‍💻 About Me
 
-💬 Ask me about Python, Machine Learning, Web Development, and Cybersecurity.
+🎓 I’m a B.Tech Computer Science student at Institute of Engineering and Science, IPS Academy, with a CGPA of 8.53/10.
 
-🤝 I’m open to Software Engineering Intern opportunities, leveraging my experience in Python, ML, and web dev.
+💡 Passionate about AI-powered solutions, distributed systems, automation, and scalable tech to solve real-world problems.
 
-📫 How to reach me: prakhar.244710@gmail.com
+🛠️ Currently working with Python, Machine Learning, Flask, and Web Technologies (HTML/CSS/JS).
 
-⚡ Fun fact: I enjoy traveling 🗺️, photography 📸, and playing cricket 🏏 in my free time.
+🧠 Learning more about GCP, cybersecurity, and system design. 
 
-💻 Languages and Tools
-Here are some of the technologies I'm proficient with:
+📬 Reach me at: [prakhar.244710@gmail.com](mailto:prakhar.244710@gmail.com)
 
-📈 My GitHub Statistics
+---
+
+### 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 💼 Projects
+
+**🔐 CyberHawk** – Cyber Incident Monitoring Tool  
+_Tools: Python, Selenium, BeautifulSoup, SHA-256, ML, Power BI_  
+• Scrapes cyber incident data across platforms.  
+• Dashboard shows sector-specific threats and APT activity.  
+• Helps customize cybersecurity architecture.
+
+**🌿 PlantHealth** – AI-Based Plant Disease Detection  
+_Tools: Python, HTML, CSS, JS, Bootstrap_  
+• 20,000+ image dataset.  
+• Real-time detection using Flask & TensorFlow.  
+• Expected to reduce manual detection time by 70%.
+
+**🖼️ PixInspect** – Image Validation App for Marketplaces  
+_Tools: Python, HTML, CSS, JS, Bootstrap_  
+• Smart India Hackathon 2023 Winner 🏆  
+• Validates authenticity of uploaded product images.
+
+**📇 Phonebook App** – Contact Management App  
+_Tools: C++, HTML, CSS, JS_  
+• Manages name, email, phone, and notes.
+
+---
+
+### 🏆 Achievements
+
+🏅 **Smart India Hackathon Winner 2023** – Built a real-world product validation solution.  
+🏅 **SIH Finalist 2024** – Dashboard for national cyber incident monitoring.
+
+---
+
+### 🤝 Communities & Contributions
+
+👥 Google Developer Group Indore – Member  
+👩‍💻 GirlScript Summer of Code 2024 – Contributor  
+🎓 Campus Ambassador – IIT Delhi Rendezvous 2023  
+📣 Volunteer – E-Cell IIT Kharagpur
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dcode3reaper%26show_icons%3Dtrue%26theme%3Ddark" alt="Prakhar Agrawal's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcode3reaper%26layout%3Dcompact%26theme%3Ddark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code3reaper&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code3reaper&layout=compact&theme=radical" width="400"/>
 </p>
 
-🌟 Featured Projects
-Here are a few highlights of my work. Click to explore!
+---
 
-AcadBoost: AI-Driven Student Management
+### 📫 Connect with Me
 
-Automated student management platform with AI for predictive insights and personalized learning. Engineered secure multi-role access for 1000+ concurrent users.
+📧 Email: [prakhar.244710@gmail.com](mailto:prakhar.244710@gmail.com)  
+🐙 GitHub: [@code3reaper](https://github.com/code3reaper)  
+🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-linkedin-here)  
+🌐 Portfolio: [Coming Soon]
 
-Key Technologies: Flask, MySQL, MongoDB, Google Gemini AI, Python
-
-CyberHawk: Cyber Incident Monitoring Tool
-
-Developed a data scraping framework to collect and visualize cyber incident data from diverse sources, generating actionable threat intelligence.
-
-Key Technologies: Python, Selenium, Power BI, Machine Learning
-
-PlantHealth: AI-Powered Plant Disease Detection
-
-AI-powered web app for real-time plant disease detection using a 20,000+ image dataset (achieving 90%+ accuracy). Expected to reduce manual detection time by 70%.
-
-Key Technologies: Python, HTML, JavaScript, TensorFlow, OpenCV
-
-PixInspect: Marketplace Image Validation
-
-🏆 Smart India Hackathon 2023 Winner: Developed a solution for ensuring product image authenticity in e-marketplaces by extracting and comparing image information.
-
-Key Technologies: Python, HTML, JavaScript, Machine Learning
-
-🏅 Honors & Awards
-Smart India Hackathon (SIH) Winner 2023 - Government of India
-
-Smart India Hackathon (SIH) Finalist 2024 - Government of India
-
-🤝 Let's Connect!
-I'm always open to discussing new opportunities, collaborations, or just connecting with fellow developers!
-
-<p align="center">
-<a href="https://www.linkedin.com/in/prakharagrawal" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:prakhar.244710@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/code3reaper" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-</p>
+---
