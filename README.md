@@ -93,7 +93,7 @@ _Tools: C++, HTML, CSS, JS_
 
 📧 Email: [prakhar.244710@gmail.com](mailto:prakhar.244710@gmail.com)  
 🐙 GitHub: [@code3reaper](https://github.com/code3reaper)  
-🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-linkedin-here)  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/prakhar-agrawal24/)  
 🌐 Portfolio: [Coming Soon]
 
 ---
