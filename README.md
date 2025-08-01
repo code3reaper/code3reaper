@@ -47,7 +47,7 @@ _Tools: Python, Selenium, BeautifulSoup, SHA-256, ML, Power BI_
 • Dashboard shows sector-specific threats and APT activity.  
 • Helps customize cybersecurity architecture.
 
-**🌿 PlantHealth** – AI-Based Plant Disease Detection  
+**🌿 Plant Care Pro** – AI-Based Plant Disease Detection  
 _Tools: Python, HTML, CSS, JS, Bootstrap_  
 • 20,000+ image dataset.  
 • Real-time detection using Flask & TensorFlow.  
